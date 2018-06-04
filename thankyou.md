@@ -16,4 +16,4 @@ head: "Journalism <br/>Entrepreneurship <br />Bootcamp"
 Phillip.
 </p>
 
-<p><b>P.S.</b> I'm re-ally looking for a better name for this undertaking; if you have any ideas, <a href="https://twitter.com/phillipadsmith">please drop me a quick note on Twitter.</a></p>
+<p><b>P.S.</b> I'm really looking for a better name for this undertaking; if you have any ideas, <a href="https://twitter.com/phillipadsmith">please drop me a quick note on Twitter.</a></p>
