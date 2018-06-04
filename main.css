@@ -39,6 +39,11 @@ body {
     text-shadow: none;
 }
 
+.modal-backdrop
+{
+    opacity:0.8 !important;
+}
+
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
     display: table;
@@ -134,6 +139,10 @@ body {
     /* nice browsers */
     background: rgba(0, 0, 0, 0.7);
     border-radius: 5px;
+}
+
+.content p a, .content p a.link {
+    text-decoration: underline;
 }
 
 /*

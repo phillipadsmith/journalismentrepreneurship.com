@@ -9,7 +9,7 @@ head: "Journalism <br/>Entrepreneurship <br />Bootcamp"
 </p>
 
 <p>
-    I'll be sending an updates regularly in June. Please stay tuned.
+    I'll be sending updates regularly in June. Please stay tuned.
 </p>
 <p>Best,
     <br/>

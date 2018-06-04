@@ -17,8 +17,9 @@ head: "Journalism <br/>Entrepreneurship <br />Bootcamp"
 
                         <p>If that sounds exciting to you, click the learn more button below.
                         </p>
-                        <p class="lead">
-                            <a href="#" class="btn btn-lg btn-success" data-toggle="modal" data-target="#ckFormModal" >Learn more</a>
+                            <button class="btn btn-lg btn-success" data-toggle="modal" data-target="#ckFormModal">
+                                Learn more
+                            </button>
 
-                        </p>
-
+                        <br />
+                        <br />
