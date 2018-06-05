@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Thank you for your intrest
-head: "Journalism <br/>Entrepreneurship <br />Bootcamp"
+head: "Journalism <br/>Entrepreneurship <br />Boot Camp"
 ---
 <p class="lead">Thank you for confirming your interest</p>
 

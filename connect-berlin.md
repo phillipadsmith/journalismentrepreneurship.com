@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Media entrepreneurship in Berlin 
-head: "Journalism <br/>Entrepreneurship <br />Bootcamp"
+head: "Journalism <br/>Entrepreneurship <br />Boot Camp"
 ---
 <p class="lead">Connect Berlin recap video</p>
 

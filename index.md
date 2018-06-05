@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Go from idea to customers in just 12 weeks
-head: "Journalism <br/>Entrepreneurship <br />Bootcamp"
+head: "Journalism <br/>Entrepreneurship <br />Boot Camp"
 ---
                         <p class="lead">Go from idea to customers in just 10 weeks.
                             <br />Online classes. One-on-one mentoring. Peer network.</p>
