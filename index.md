@@ -3,7 +3,7 @@ layout: home
 title: Go from idea to customers in just 12 weeks
 head: "Journalism <br/>Entrepreneurship <br />Bootcamp"
 ---
-                        <p class="lead">Go from idea to customers in just 12 weeks.
+                        <p class="lead">Go from idea to customers in just 10 weeks.
                             <br />Online classes. One-on-one mentoring. Peer network.</p>
                         <p>
                             I’m excited to mentor 100 passionate journalists to be the architects of the community-focused and community-funded news ecosystem that the world needs right now:
