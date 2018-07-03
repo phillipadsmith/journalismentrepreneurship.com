@@ -5,7 +5,7 @@ head: "Journalism <br/>Entrepreneurship <br />Boot Camp"
 ---
 <p class="lead">Connect Berlin recap video</p>
 
-<p>You can get a sense our Berlin media entrepreneruship event here:</p>
+<p>You can get a sense of our Berlin media entrepreneruship event here:</p>
 
 <iframe width="500" height="250" src="https://www.youtube.com/embed/84DcX3YrtJM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

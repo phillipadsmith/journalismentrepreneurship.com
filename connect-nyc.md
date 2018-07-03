@@ -5,7 +5,7 @@ head: "Journalism <br/>Entrepreneurship <br />Bootcamp"
 ---
 <p class="lead">Connect New York recap video</p>
 
-<p>You can get a sense our New York media entrepreneruship event here:</p>
+<p>You can get a sense of our New York media entrepreneruship event here:</p>
 
 <iframe width="500" height="250" src="https://www.youtube.com/embed/YItN4e3RPg0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
