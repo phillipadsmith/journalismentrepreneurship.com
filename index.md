@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Go from idea to customers in just 12 weeks
+title: Go from idea to business plan in just 10 weeks
 head: "Journalism <br/>Entrepreneurship <br />Boot Camp"
 ---
                         <p class="lead">Go from idea to business plan in just 10 weeks.
