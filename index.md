@@ -3,7 +3,7 @@ layout: home
 title: Go from idea to business plan
 head: "Journalism <br/>Entrepreneurship <br />Boot Camp"
 ---
-                        <p class="lead">Go from idea to business plan.
+                        <p class="lead">Go from idea to business plan. 10-week course.
                             <br />Online classes. One-on-one mentoring. Peer network.</p>
                         <p>
                             I’m excited to mentor 100 passionate journalists to be the architects of the community-focused and community-funded news ecosystem that the world needs right now:
