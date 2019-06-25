@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: index
 title:  Go from idea to customers in just 12 weeks
 head: "Journalism <br/>Entrepreneurship <br />Boot Camp"
 ---
