@@ -1901,12 +1901,15 @@
 
 	body.landing {
 		#page-wrapper {
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../images/banner.jpg")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.7))', 'url("/files/willian-justen-de-vasconcellos-685763-unsplash.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
 			background-size: cover;
 			padding-top: 0;
+                        #banner p {
+                            padding: 0 10% 0 10%;
+                        }
 		}
 
 		#footer {
@@ -1918,11 +1921,14 @@
 		&.landing {
 			#page-wrapper {
 				background: none;
+                            #banner p {
+                                padding: 0;
+                            }
 			}
 
 			#banner,
 			.wrapper.style4 {
-				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../images/banner.jpg")'));
+				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("/files/willian-justen-de-vasconcellos-685763-unsplash.jpg")'));
 				background-position: center center;
 				background-repeat: no-repeat;
 				background-size: cover;
