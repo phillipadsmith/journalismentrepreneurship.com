@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+                <title>Journalism Entrepreneruship Boot Camp | {{ page.title-seo }}</title>
+        {% include head.html %} 
+	</head>
+	<body class="is-preload">
+        
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GNDK3X"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+{% include header.html %}
+				<!-- Main -->
+					<article id="main">
+						<header style="background-image: url('{{ page.image }}');">
+                                                    <h2>{{ page.title }}</h2>
+                                                    <p class="lead">{{ page.lead }}</p>
+						</header>
+						<section class="wrapper style5">
+							<div class="inner">
+                                                        {{ content }}
+							</div>
+						</section>
+					</article>
+{% include section-cta.html %}
+
+{% include footer.html %}
+			</div>
+
+{% include scripts.html %}
+	</body>
+</html>
