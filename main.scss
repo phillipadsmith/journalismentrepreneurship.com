@@ -1803,15 +1803,15 @@
 			}
 
 			@include breakpoint('<=xlarge') {
-				@include padding(10em, 0);
+				@include padding(15em, 0);
 			}
 
 			@include breakpoint('<=large') {
-				@include padding(10em, 3em);
+				@include padding(15em, 3em);
 			}
 
 			@include breakpoint('<=medium') {
-				@include padding(10em, 3em);
+				@include padding(15em, 3em);
 			}
 
 			@include breakpoint('<=small') {
