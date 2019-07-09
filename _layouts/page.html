@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        {% include head.html %} 
+    </head>
+    <body class="is-preload" id="{{ page.slug }}">
+
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GNDK3X"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <!-- Page Wrapper -->
+        <div id="page-wrapper">
+
+            {% include header.html %}
+            <!-- Main -->
+            <article id="main">
+                <header style="background-image: url('{{ page.image }}');">
+                    <h2>{{ page.title-onpage }}</h2>
+                    <p class="lead">{{ page.lead }}</p>
+                </header>
+                <section class="wrapper style5">
+                    <div class="inner">
+                        {{ content }}
+                    </div>
+                </section>
+            </article>
+            {% include section-three.html %}
+            {% include section-cta.html %}
+
+            {% include footer.html %}
+        </div>
+
+        {% include scripts.html %}
+    </body>
+</html>

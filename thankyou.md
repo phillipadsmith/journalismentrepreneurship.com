@@ -1,19 +1,16 @@
 ---
-layout: home
-title: Thank you for your intrest
-head: "Journalism <br/>Entrepreneurship <br />Boot Camp"
+layout: page-simple
+title: Thank you for your interest
+title-onpage: Thank you for your interest
+sitemap: false
 ---
-<p class="lead">Thank you for confirming your interest</p>
+Thank you for confirming your interest in the Journalism Entrepreneurship Boot Camp.
+{: .lead}
 
-<p>I'm really encouraged by each and every person who's indicated that they'd like to find out more. So, seriously, thank you.
-</p>
+I'm really encouraged by each and every person who's indicated that they'd like to find out more. So, seriously, thank you.
 
-<p>
-    I'll be sending updates regularly in June. Please stay tuned.
-</p>
-<p>Best,
-    <br/>
+I'll be sending updates regularly. Please stay tuned.
+
+Best,
 Phillip.
-</p>
 
-<p><b>P.S.</b> I'm really looking for a better name for this undertaking; if you have any ideas, <a href="https://twitter.com/phillipadsmith">please drop me a quick note on Twitter.</a></p>
