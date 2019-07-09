@@ -1,8 +1,9 @@
 ---
 layout: page-alt
-title-seo: Phillip Smith's Experience
-title: <br /><br /><br /><br />
+title-onpage: <br /><br /><br /><br />
+title: Phillip Smith's Experience
 image: /files/phillipadsmith-high-resolution-bw.jpg
+slug: experience
 permalink: /experience/
 ---
 
@@ -10,7 +11,7 @@ permalink: /experience/
 
 The Journalism Entrepreneurship Training Company was founded by Phillip Smith while at Stanford on a John S. Knight journalism fellowship. He personally designs and delivers all of the training programs. 
 
-<a href="#" class="button secondary">Read more on LinkedIn &raquo;</a>
+<a href="https://linkedin.com/in/phillipadsmith/" class="button secondary">Read more on LinkedIn &raquo;</a>
 
 ##### Phillip’s professional experience:
 

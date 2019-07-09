@@ -1,9 +1,10 @@
 ---
 layout: page
-title-seo: One-on-One Coaching
+title-onpage: One-on-One Coaching
 title: One-on-One Coaching
 lead: As needed, just-in-time support for journalism entrepreneurs
-image: '/files/phillip-smith-coach-on-mic.jpg'
+description: As needed, just-in-time support for journalism entrepreneurs
+image: '/files/phillip-smith-coaching.jpg'
 permalink: /coaching/
 ---
 
@@ -15,10 +16,11 @@ For more than a decade, I’ve been coaching journalists who are working to crea
 
 My coaching draws from 20 years of experience working with online publishers and digital-first newsrooms, as a software developer, data journalism trainer, product manager, and chief technology officer. 
 
-To further my understanding of the Lean Startup methods and how they can be applied to journalism, I spent a year at Stanford digging into how entrepreneurship is taught by people like Steve Blank. I also invested countless hours into shadow coaching a wide range of startups with creator of the Lean Canvas, Ash Maurya. I am now a certified Lean Stack coach.
+To further my understanding of how tools from the Lean Startup movement can be applied to journalism, I spent a year at Stanford digging into how entrepreneurship is taught by people like Steve Blank. I also invested countless hours into shadow coaching a wide range of startups with creator of the Lean Canvas, Ash Maurya. I am now a certified Lean Stack coach.
 
 
 ##### Specific challenges that I help news startup founders with: 
+* Validating a business model
 * Talking to customers
 * Testing with customers
 * Market size evaluation
@@ -31,11 +33,10 @@ To further my understanding of the Lean Startup methods and how they can be appl
 
 Curious if this is right for you? 
 
-<a href="#" class="button secondary">Inquire about coaching &raquo;</a>
+<a href="/contact" class="button secondary">Inquire about coaching &raquo;</a>
 
 ##### Testimonials
-Kara quote from card
-The Frisc quote
+> Thank you so much for your support of our little buddign news organization. Your advice & expertise is so valuable to me -- it's helped us sharpen our focus! &mdash; Kara Guzman, Santa Cruz Local
 
 ##### One-on-one coaching schedule:
 * I can typically accommodate 60-minute coaching sessions on Tuesday and Thursdays
@@ -44,8 +45,8 @@ The Frisc quote
 {: .alt}
 
 ##### What’s unique:
-* My coaching practice is exclusive to people working in the field of journalism. How to improve the success of journalism startups is my laser focus -- what I wake up thinking about, and my last thought before bed.
-* I maintain a database an up-to-date database of hundreds of unique news startup case studies&mdash;for-profit, non-profit, and everything in between&mdash;to help you find the inspiration you need to move forward.
-* I have an enormous resource library, curated over the last ten years, ready to answer most questions you’ll have.
+* My coaching practice is exclusive to people working in the field of journalism. Working to improve the success of journalism startups is my laser focus -- what I wake up thinking about, and my last thought before bed
+* I maintain an up-to-date database of hundreds of unique news startup case studies&mdash;for-profit, non-profit, and everything in between&mdash;to help you find the inspiration you need to move forward
+* I have an enormous resource library, curated over the last ten years, ready to answer most questions you’ll have
 {: .alt}
 
