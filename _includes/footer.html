@@ -6,8 +6,13 @@
     </ul>
     <ul class="copyright">
         <li>&copy; Journalism Entrepreneruship Training Co.</li>
-        <li><a href="">Privacy Policy</a></li>
-        <li><a href="">Terms of Use</a></li>
+        <li><a href="/privacy-terms">Privacy Policy</a></li>
+        <li><a href="/privacy-terms">Terms of Use</a></li>
         <li>Theme by <a href="http://html5up.net">HTML5 UP</a></li>
+            {% if page.image-credit %}
+        <li>
+            Image by {{ page.image-credit }}
+        </li>
+            {% endif %}
     </ul>
 </footer>
