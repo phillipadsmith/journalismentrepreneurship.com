@@ -13,25 +13,39 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Journalism Entrepreneurship Training Company
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+     Workshops and intense trainings that bring news startups to life.
+twitter_username: phillipadsmith
+github_username:  phillipadsmith
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-sitemap
 
 sass:
     sass_dir: _sass
+
+# SEO Tag
+twitter:
+  username: phillipadsmith
+  card: summary
+
+logo: /files/JETCO-logo-square.png 
+
+social:
+  name: Phillip Smith
+  links:
+    - https://twitter.com/phillipaddsmith
+    - https://www.linkedin.com/in/phillipadsmith
+    - https://github.com/phillipadsmith
+    - https://keybase.io/phillipadsmith
+
+webmaster_verifications:
+  google: RYugsa5vUF9zYbDJ-fbEZMen5c8HNGUtrRXRCl7OKPU
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -44,3 +58,5 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+    - TODO.md
