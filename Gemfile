@@ -21,6 +21,7 @@ gem "jekyll", "~> 3.8.0"
 group :jekyll_plugins do
   gem 'github-pages'
   gem 'jekyll-seo-tag'
+  gem 'jekyll-redirect-from'
 #  gem "jekyll-feed", "~> 0.6"
 end
 

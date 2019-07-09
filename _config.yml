@@ -59,4 +59,11 @@ webmaster_verifications:
 #   - vendor/gems/
 #   - vendor/ruby/
 exclude:
-    - TODO.md
+   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+   - TODO.md
