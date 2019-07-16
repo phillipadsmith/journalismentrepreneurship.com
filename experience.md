@@ -1,6 +1,6 @@
 ---
 layout: page-alt
-title-onpage: <br /><br /><br /><br />
+title-onpage: 
 title: Phillip Smith's Experience
 image: /files/phillipadsmith-high-resolution-bw.jpg
 slug: experience
