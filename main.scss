@@ -1945,6 +1945,12 @@
 
 /* Overrides & Custom */
 
+    body.is-mobile {
+        #cta {
+            background-attachment: unset !important;
+        }
+    }
+
     .formkit-alert {
             background: #ffff0038;
     }
