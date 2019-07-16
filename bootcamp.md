@@ -4,7 +4,7 @@ title-onpage: Boot Camp
 title: Journalism Entrepreneurship Boot Camp
 lead: Intense training for diverse founders starting audience-pay information businesses
 description: Intense training for diverse founders starting audience-pay information businesses
-image: '/files/bootcamp-screenshot.jpg'
+image: '/files/bootcamp-screenshot-dark.jpg'
 permalink: /bootcamp/
 ---
 
