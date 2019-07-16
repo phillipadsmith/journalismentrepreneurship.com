@@ -16,7 +16,7 @@ For more than a decade, I’ve been coaching journalists who are working to crea
 
 My coaching draws from 20 years of experience working with online publishers and digital-first newsrooms, as a software developer, data journalism trainer, product manager, and chief technology officer. 
 
-To further my understanding of how tools from the Lean Startup movement can be applied to journalism, I spent a year at Stanford digging into how entrepreneurship is taught by people like Steve Blank. I also invested countless hours into shadow coaching a wide range of startups with creator of the Lean Canvas, Ash Maurya. I am now a certified Lean Stack coach.
+To further my understanding of how tools from the Lean Startup movement can be applied to journalism, I spent a year at Stanford digging into how entrepreneurship is taught by people like Steve Blank, author of _The Four Steps to the Epiphany_, and the person credited with launching the Lean Startup movement. I also invested countless hours into shadow coaching a wide range of startups with creator of the Lean Canvas, Ash Maurya. I am now a certified Lean Stack coach.
 
 
 ##### Specific challenges that I help news startup founders with: 
