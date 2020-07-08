@@ -10,13 +10,14 @@ permalink: /bootcamp/
 
 ### Training for people with passion
 
-Roughly three times a year, I offer an intense 10-week online boot camp that helps early stage journalism entrepreneurs start a financially viable news business with a well-tested suite of business modelling and customer validation tools.
+Roughly three times a year, I offer an intense eight-week online boot camp that helps early stage journalism entrepreneurs start a financially viable news business with a well-tested suite of business modelling and customer validation tools.
 
 I focus on working with diverse founders who are leaving newsrooms to start audience-pay information businesses. Typically, participants are mid-career journalists who have proven track of public-service reporting.
 
-Does that sound like you? Get notified of the next boot camp:
+Does that sound like you? You're in luck, applications are open again:
 
-<a href="#" id="modalButton" class="button primary">Get notified &raquo;</a>
+<!--<a href="#" id="modalButton" class="button primary">Get notified &raquo;</a>-->
+<a href="https://www.gnistartupslab.com/" class="button primary">Apply today &raquo;</a>
 
 
 I expect boot camp participants to become the architects of the community-focused and community-funded news ecosystem that the world needs right now:
@@ -62,7 +63,8 @@ I expect boot camp participants to become the architects of the community-focuse
 * You get a curriculum that adapts to your specific needs. I do this by surveying everyone at the end of the week and making small additions to the next week’s lesson based on that feedback
 {: .alt}
 
-<a href="#" id="modalButton2" class="button primary">Get notified &raquo;</a>
+<!--<a href="#" id="modalButton2" class="button primary">Get notified &raquo;</a>-->
+<a href="https://www.gnistartupslab.com/" class="button primary">Apply today &raquo;</a>
 
 
 {% include modal.html %}

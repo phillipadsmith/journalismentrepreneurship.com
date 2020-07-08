@@ -36,7 +36,7 @@ Curious if this is right for you?
 <a href="/contact" class="button secondary">Inquire about coaching &raquo;</a>
 
 ##### Testimonials
-> Thank you so much for your support of our little buddign news organization. Your advice & expertise is so valuable to me -- it's helped us sharpen our focus! &mdash; Kara Guzman, Santa Cruz Local
+> Thank you so much for your support of our little budding news organization. Your advice & expertise is so valuable to me -- it's helped us sharpen our focus! &mdash; Kara Guzman, Santa Cruz Local
 
 ##### One-on-one coaching schedule:
 * I can typically accommodate 60-minute coaching sessions on Tuesday and Thursdays
