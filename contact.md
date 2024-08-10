@@ -11,13 +11,4 @@ permalink: /contact/
 
 ## Contact the Journalism Entrepreneurship Training Company
 
-Interested in learning more? Ready to take the next step? Great! Here are a few ways to get in touch with me:
-
-* <a href="https://twitter.com/phillipadsmith">Send me a direct message on Twitter</a>
-* <a href="https://linkedin.com/in/phillipadsmith/">Drop me a note on LinkedIn</a>
-* Submit a quick written message using the form below
-
-All of the above are likely to get my attention more quickly than a direct email.
-
-###### Submit this form to hit the top of my inbox
-{% include form-contact.html %}
+Interested in learning more? Ready to take the next step? <a href="https://linkedin.com/in/phillipadsmith/">Drop me a note on LinkedIn</a>
